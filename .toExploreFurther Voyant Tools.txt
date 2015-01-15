@@ -1,0 +1,3 @@
+.toExploreFurther Voyant Tools
+
+* software to measure linguistic properties of texts

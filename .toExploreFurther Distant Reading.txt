@@ -1,0 +1,4 @@
+.toExploreFurther Distant Reading
+
+* comparison of one text to a databse of numerous other texts
+* Franco Moretti and Stephen Ramsay

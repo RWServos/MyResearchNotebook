@@ -1,0 +1,3 @@
+.toQuote Big Data
+
+* "The difference with most 'big data' approaches and culturomics is that there is no pretence to a model. Instead, their practitioners seek to discover patterns in the entrails of human leavings hoping to find the inherent meanings encoded there."
